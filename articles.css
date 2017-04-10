@@ -1,0 +1,91 @@
+/* Copy and paste your blog article HTML into the index.html file for this exercise. For each article on your blog page, you need to have the following things to be unique.
+
+A different background color.
+A different font family.
+A different font size.
+A different font color.
+A different line height.
+A different padding value.
+Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape) */
+
+body {
+	background-color: #f0fff0;
+}
+
+h1 {
+	font-family: impact;
+	font-weight: bold;
+	letter-spacing: .1em;
+	font-size: 3em;
+	text-align: center;
+}
+
+.article1 {
+	background-color: #d2b48c;
+	font-family: helvetica;
+	font-size: 1em;
+	color: black;
+	line-height: 1.3em;
+	padding: 3%;
+	border: solid;
+	border-radius: 5px;
+	margin: 2% 20% 2% 20%;
+}
+
+.article2 {
+	background-color: #fff8dc;
+	font-family: georgia, sans-serif;
+	font-size: 1.1em;
+	color: #483d8b;
+	line-height: 1.2;
+	padding: 12px 10px;
+	border: double;
+	border-radius: 5px;
+	margin: 2% 20% 2% 20%;
+}
+
+.article3 {
+	background-color: #a9a9a9;
+	font-family: lucida;
+	font-size: 1.25em;
+	color: #4b0082;
+	line-height: 115%;
+	padding: 18px;
+	border: solid;
+	border-radius: 1.2em;
+	margin: 2% 20% 2% 20%;
+}
+
+.article4 {
+	background-color: #b0e0e6;
+	font-family: times;
+	font-size: 105%;
+	color: #cd5c5c;
+	line-height: 150%;
+	padding: 5px 25px 5px 25px;
+	border: solid;
+	border-radius: 15px;
+	margin: 2% 20% 2% 20%;
+}
+
+.article5 {
+	background-color: #8fbc8f;
+	font-family: arial black;
+	font-size: 85%;
+	color: #b22222;
+	line-height: 2;
+	padding: 50px;
+	border: solid;
+	border-radius: 10px;
+	margin: 2% 20% 2% 20%;
+}
+
+
+
+
+
+
+
+
+
+
